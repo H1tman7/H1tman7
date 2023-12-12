@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings, I'm Mikhail!👋
 
 <!--
 **H1tman7/H1tman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
